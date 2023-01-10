@@ -6,7 +6,8 @@
 [![support](https://img.shields.io/badge/support-ios%2013%2B-orange.svg)](#) 
 
 百度云推送非官方，静态库下载至官方。
-##BPush 版本
+
+## BPush 版本
 - version: 2.1.7
 
 ## 要求
